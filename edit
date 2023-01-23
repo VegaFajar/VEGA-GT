@@ -21,3 +21,5 @@ JamTidur = {1, 7, 13, 20} -- JAM BOTNYA OFF (Format 24 Jam)
 DelayTidur = 60 -- BOTNYA OFF SELAMA n DelayTidur (Format Menit)
 
 MinItemPack = 10
+
+idSeed = 3005
