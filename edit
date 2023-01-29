@@ -23,3 +23,5 @@ DelayTidur = 75 -- BOTNYA OFF SELAMA n DelayTidur (Format Menit)
 MinItemPack = 5
 
 idSeed = 3005
+
+batasdc = 1000 --BATAS BERAPA KALI SPAM DISCONNECT AGAR DIREMOVE (SELAMA TRY TO RECONNECT DOANG)
