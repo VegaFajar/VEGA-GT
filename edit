@@ -16,7 +16,7 @@ targettrash = 100 -- AUTO TRASH JUNK ITEMS KETIKA MENCUKUPI TARGET
 Turu = true --JADIIN FALSE JIKA GAMAU UNLIMITED WORLD
 
 Istirahat = true --JADIIN FALSE JIKA GAMAU ISTIRAHATIN BOTNYA
-JamSkrg = 20 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
+JamSkrg = 6 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
 JamTidur = {0, 5, 12, 18} -- JAM BOTNYA OFF (Format 24 Jam)
 DelayTidur = 90 -- BOTNYA OFF SELAMA n DelayTidur (Format Menit)
 
