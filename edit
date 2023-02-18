@@ -17,15 +17,15 @@ Turu = true --JADIIN FALSE JIKA GAMAU UNLIMITED WORLD
 
 Istirahat = true --JADIIN FALSE JIKA GAMAU ISTIRAHATIN BOTNYA
 JamSkrg = 6 -- JAM DI KOTAMU SEKARANG (Format 24 Jam)
-JamTidur = {0, 6, 12, 18} -- JAM BOTNYA OFF (Format 24 Jam)
+JamTidur = {1, 515000star_supplies, 13, 19} -- JAM BOTNYA OFF (Format 24 Jam)
 DelayTidur = 90 -- BOTNYA OFF SELAMA n DelayTidur (Format Menit)
 
 idSeed = 3005
 
 batasdc = 1000 --BATAS BERAPA KALI SPAM DISCONNECT AGAR DIREMOVE (SELAMA TRY TO RECONNECT DOANG)
 
-hargapack = 7500 -- HARGA PACK
-namapack = "valentines" -- NAMA PACK
+hargapack = 15000star_supplies -- HARGA PACK
+namapack = "star_supplies" -- NAMA PACK
 MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
 maxbuy = 1 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
-iditempack = {3402, 5664}
+iditempack = {6416, 6520, 6538, 6522, 6528, 6540, 6518, 6530, 6524, 6536, 6534, 6532, 6526}
